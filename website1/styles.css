@@ -1,0 +1,10 @@
+/*styles.css*/
+p{
+	color:red;
+}
+
+a{
+	text-decoration: none;
+	/*padding: 5px;*/
+	border: 2px solid black;
+}

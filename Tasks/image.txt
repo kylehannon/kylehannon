@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>MY CV</title>
+		
+		</head>
+		<body>
+		<h1>Your Name<h1><br>
+		<img src="google.jpeg" alt="google info">
+		<h2> to do list</h2>
+		<ul>
+		<li>Task 1</li>
+		<li>Task 2</li>
+		<li>Task 3</li>
+		<li>Task 4</li>
+		</ul>
